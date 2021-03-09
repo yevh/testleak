@@ -1,0 +1,2 @@
+https://maps.googleapis.com/maps/api/staticmap?zoom=16&size=400x400&mobile=true&markers=45.480022171222,-122.62273374651&key=AIzaSyAFqy19h32CRo6jiTzWdxntM3F4A1anQtA
+https://maps.googleapis.com/maps/api/staticmap?size=307x327&center=65.68282049040300%2C-17.54957963789200&zoom=7&sensor=false&markers=color%3Ared%7C65.68282049040300%2C-17.54957963789200&key=AIzaSyC9L-xCAgZLJOsrv0mM-B9aK6gUJ0U0z1o 
